@@ -23,4 +23,4 @@ License
 This project is licensed under the MIT License
 
 Contact
-For any questions or feedback, please contact:Sayan Bhattacharjee-kingsayanbhattacharjee@gmail.com
+For any questions or feedback, please contact:Sayan Bhattacharjee- kingsayanbhattacharjee@gmail.com
